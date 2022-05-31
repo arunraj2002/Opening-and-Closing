@@ -13,19 +13,15 @@ Import the necessary packages.
 ### Step2:
 Create the Text using cv2.putText.
 <br>
-
 ### Step3:
 Create the structuring element.
 <br>
-
 ### Step4:
 Use Opening and Closing Operations
 <br>
-
 ### Step5:
 End Program.
 <br>
-
 ## Program:
 ``` Python
 Developed By    : R ARUNRAJ
@@ -60,7 +56,6 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
-
 ### Display the input Image
 ![o1](https://user-images.githubusercontent.com/75235747/171269593-c54b019a-0d4e-44a6-a5d3-9d7457f6aaf5.JPG)
 ### Display the result of Opening
