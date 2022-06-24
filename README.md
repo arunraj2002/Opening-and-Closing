@@ -60,6 +60,11 @@ cv2.destroyAllWindows()
 ![o1](https://user-images.githubusercontent.com/75235747/171269593-c54b019a-0d4e-44a6-a5d3-9d7457f6aaf5.JPG)
 ### Display the result of Opening
 ![o2](https://user-images.githubusercontent.com/75235747/171269683-ee5a6574-6960-4b78-88a3-12238e4497b4.JPG)
+<br>
+<br>
+<br>
+<br>
+
 ### Display the result of Closing
 ![o3](https://user-images.githubusercontent.com/75235747/171269723-2da2edd7-66a7-431c-88cf-43375291321d.JPG)
 ## Result
